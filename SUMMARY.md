@@ -3,7 +3,7 @@
 * [Organizing people and community](organizing/README.md)
 * [Planning work and projects](projects/README.md)
 * [Finance](finance/README.md)
-* [Architecture](construction/README.md)
+* [Construction](construction/README.md)
 * [Energy](energy/README.md)
 * [Ecology, agro- and agriculture](ecology/README.md)
 * [IT and connectivity](infrastructure/README.md)
