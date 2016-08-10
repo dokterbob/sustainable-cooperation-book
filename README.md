@@ -1,2 +1,1 @@
-# sustainable-cooperation-book
-Toolkit for Sustainable Cooperation ebook.
+# Toolkit for Sustainable Cooperation
