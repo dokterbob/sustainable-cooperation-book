@@ -36,3 +36,11 @@ Provide resources on creating collaboratively managed communication infrastructu
 
 # Regional expertise
 The primary aim of this project is to provide a quick overview of existing resources. Therefore, the initial focus will be global, adding regional specialization only gradually, when applicable.
+
+# Existing resources
+Where available, links to (externally managed) existing resources will be preferred over one-off replication of existing free (as in libre) information. Valuable existing resources with regards to this are:
+Open Source Ecology Wiki
+P2P Foundation Wiki
+Appropedia
+D-CENT
+The Open Building Institute
