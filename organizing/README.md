@@ -16,7 +16,6 @@ Practical approaches to collective decision making, execution and evaluation.
 * [Liquid Feedback](http://liquidfeedback.org/)
 * [DemocracyOS](http://democracyos.org/)
 * [http://argu.co/](http://argu.co/)
-* [https://represent.cc/](http://argu.co/)
 
 ### Organizations
 * [D-CENT](https://decentralize.hackpad.com/9tVwuGUOFHx)
