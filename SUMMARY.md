@@ -6,4 +6,5 @@
 * Architecture
 * Energy
 * Ecology, agro- and agriculture
+* Infrastructure and connectivity
 
