@@ -6,5 +6,5 @@
 * [Architecture](construction/README.md)
 * [Energy](energy/README.md)
 * [Ecology, agro- and agriculture](ecology/README.md)
-* [Infrastructure and connectivity](infrastructure/README.md)
+* [IT and connectivity](infrastructure/README.md)
 
