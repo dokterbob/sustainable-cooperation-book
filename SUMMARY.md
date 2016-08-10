@@ -5,6 +5,6 @@
 * [Finance](finance/README.md)
 * [Architecture](construction/README.md)
 * [Energy](energy/README.md)
-* Ecology, agro- and agriculture
+* [Ecology, agro- and agriculture](ecology/README.md)
 * Infrastructure and connectivity
 
