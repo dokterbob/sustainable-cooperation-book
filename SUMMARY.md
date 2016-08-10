@@ -4,4 +4,5 @@
 * [Planning work and projects](projects/README.md)
 * Finance
 * Architecture
+* Energy
 
